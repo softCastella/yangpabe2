@@ -5,7 +5,7 @@ class Sale extends Sequelize.Model {
     return super.init(
       {
         productName: {
-          //제품명
+          //제품명d
           type: Sequelize.STRING(50),
           allowNull: false,
         },
