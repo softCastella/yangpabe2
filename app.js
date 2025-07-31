@@ -1,3 +1,5 @@
+// commit 확인용
+
 require('./models/sync')(); //꼭 풀어야 한다!
 require('dotenv').config();
 
