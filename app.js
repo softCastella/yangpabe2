@@ -1,6 +1,7 @@
 // commit 확인용
 
-require('./models/sync')(); //꼭 풀어야 한다!
+//꼭 풀어야 한다!
+// require('./models/sync')(); 
 require('dotenv').config();
 
 const express = require('express');
